@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening - Circustrein", "Oefening - Circustrein\Oefening - Circustrein.csproj", "{B52CB89F-E9D2-4356-8DBF-AEEA40D66B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{78F87380-7093-4209-AC5C-23D81C9FA0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52CB89F-E9D2-4356-8DBF-AEEA40D66B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52CB89F-E9D2-4356-8DBF-AEEA40D66B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52CB89F-E9D2-4356-8DBF-AEEA40D66B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52CB89F-E9D2-4356-8DBF-AEEA40D66B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F87380-7093-4209-AC5C-23D81C9FA0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F87380-7093-4209-AC5C-23D81C9FA0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F87380-7093-4209-AC5C-23D81C9FA0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F87380-7093-4209-AC5C-23D81C9FA0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
